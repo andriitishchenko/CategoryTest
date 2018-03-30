@@ -1,9 +1,13 @@
 # CategoryTest
 Objective-c Category priority test 
 
-Builder file,
-	 creating generic Window instead
 
+Why we must "Avoid Category Method Name Clashes"
+
+
+https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/CustomizingExistingClasses/CustomizingExistingClasses.html
+
+Please open RAW text of READ.me
 
 Dump the class with categories:
 
